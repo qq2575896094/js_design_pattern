@@ -6,3 +6,4 @@
 + 工厂模式(factory)
 + 单例模式(singleton)
 + 外观模式(facade)
++ 继承
